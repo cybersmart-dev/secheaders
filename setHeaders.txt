@@ -1,0 +1,19 @@
+ 
+ ____  ____  ___      _  _  ____   __   ____  ____  ____  ____ 
+/ ___)(  __)/ __)___ / )( \(  __) / _\ (    \(  __)(  _ \/ ___)
+\___ \ ) _)( (__(___)) __ ( ) _) /    \ ) D ( ) _)  )   /\___ (____/(____)\___)    \_)(_/(____)\_/\_/(____/(____)(__\_)(____/
+        
+        Developer: Cyber Smart
+        Version: 0.1-shark 🐋
+        Url: github.com/cybersmart-dev/secHeaders.git 
+        
+        
+ [https://oss.moov.io/] : 403
+
+ × Strict-Transport-Security
+ × Content-Security-Policy
+ × X-Content-Type-Options
+ √ Referrer-Policy
+ × Permissions-Policy
+ √ X-Frame-Options
+ × X-XSS-Protection

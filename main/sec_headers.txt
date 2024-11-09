@@ -1,0 +1,7 @@
+Strict-Transport-Security
+Content-Security-Policy
+X-Content-Type-Options
+Referrer-Policy
+Permissions-Policy
+X-Frame-Options
+X-XSS-Protection
